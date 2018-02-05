@@ -41,4 +41,5 @@ int main(){
     for(i=1;i<9;i++){
         printf("%d\n",array[i]);
     }
+    return 0;
 }
